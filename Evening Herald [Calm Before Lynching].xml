@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Negro Calm as Mob Leaders Dragged Him Out to Death</title>
+            <respStmt>
+                <resp>Editorial Assistant</resp>
+                <name xml:id="ly_er">Lyette Erin</name>
+            </respStmt>
+            <respStmt>
+                <resp>Editorial Assistant</resp>
+                <name xml:id="br_he">Brooke Herron</name>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <p>Publication Information</p>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                <title level="a">Negro Calm as Mob Leaders Dragged Him Out to Death</title>
+                <title level="j">Evening World Herald</title>
+                <biblScope unit="volume">35</biblScope>
+                <biblScope unit="issue">29</biblScope>
+                <biblScope unit="pages">1 and 15</biblScope>
+                <date when="1919-09-29">September 29, 1919</date>
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <body>
+        <head type="main">MAYOR, HANGED BY MOB IN SERIOUS CONDITION</head>
+    </body>
+</text>
+</tei>

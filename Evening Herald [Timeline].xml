@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Lynching From Start to Finish.</title>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="ly_er">Lyette Erin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="br_he">Brooke Herron</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Lynching From Start to Finish.</title>
+                    <title level="j">Evening World Herald</title>
+                    <biblScope unit="volume">35</biblScope>
+                    <biblScope unit="issue">29</biblScope>
+                    <biblScope unit="pages">3</biblScope>
+                    <date when="1919-09-29">September 29, 1919</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+   <text>
+    <body>
+        <head type="main">Lynching From Start to Finish.</head>
+        <lb></lb>
+        <p>2:30p.m.&#8212;The mob, consisting of about fifty boys ranging in ages from 10 to 16, began to assemble on the south side of the court house. They were without a leader.</p>
+        <p>5:00.&#8212;The crowd was greatly increased in numbers and approached the doors of the courthouse.</p>
+        <p>5:25.&#8212;The crowd broke the glass in one of the doors on the west side of the building. It was driven back by the police.</p>
+        <p>5:45.&#8212;A few leaders now appeared in the crowd. THey surged forward with a twenty foot plank and succeeded in breaking the door through.</p>
+        <p>5:50.&#8212;The crowd attempted to enter the buidling but the police turned on two streams of water on it and succeeded in driving it back. The angered men then went to the vacant lost west of the Y.M.C.A. and returned two streams of water on it began to throw at the courthouse. The attack drove the police within the buidling and the crowd entered for the first time.</p>
+        <p>5:53.&#8212;The first shots were fired by the police from a point within the buidling at the invading mob, who withdrew for more bricks.</p>
+        <p>5:57.&#8212;Another attempt to enter was successful and some of the crowd got to the fourth floor.</p>
+        <p>6:00.&#8212;A ladder was put up the side of the building to the second floor and the mob entered. They ran free for ten minutes.</p>
+        <p>6:15.&#8212;Chief of Police Ebertstein, under the proctection of the mob leaders, addressed the crowd from one of the windows of the courthouse and urged the members to let the law take its course. But the crowd was by this time beyond control and they stormed the building for a half hour.</p>
+        <p>6:45.&#8212;A chase after a negro north on Seventeeth started. The crowd caught him at the side of the Omaha National bank where they tried to lynch him. He succeeded in making his escape with the help of the police and a few of the crowd. Second shots of day fired by police.</p>
+        <p>6:59.&#8212;Mad chase after an armed negro on an east bound Farnam street car started. The negro hid in a basement at 1108 <choice><sic>aJckson</sic><corr>Jackson</corr></choice> street.</p>
+        <p>9:15&#8212;Fire discovered in courthouse.</p>
+        <p>9:50&#8212;Policemen imprisoned on fourth floor of <choice><sic>court house</sic><corr>courthouse</corr></choice> are freed with an extension ladder and are severely beaten by the crowd as the reach earth.</p>
+        <p>9:53&#8212;Mob leaders reach the top floor by means of the ladder and began a search for the negro.</p>
+        <p>9:56&#8212;Crowd broke unto great cheering as a young man climbed up the ladder with a stout rope to hang the negro when caught.</p>
+        <p>10:30&#8212;Will Brown delivered by fellow prisoners to the mob.</p>
+        <p>10:35&#8212;Brown hanged to electric light pole at Eighteen and Harney</p>
+        <lb></lb>
+        <p>When the mob was setting fire to the interior of the <choice><sic>court house</sic><corr>courthouse</corr></choice> a man climbed up the sill of a firststory window and threw a can of gasoline into the flames. The resultant explosion blew him clear into the areaway, twelve feet below. He was badly burned.</p>
+    </body>
+   </text>
+</TEI>

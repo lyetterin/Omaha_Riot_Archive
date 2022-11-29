@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Historical marker unveiled at lynching site</title>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="ly_er">Lyette Erin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="br_he">Brooke Herron</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a"> Historical marker unveiled at lynching site</title>
+                    <title level="j">Lincoln Journal Star</title>
+                    <biblScope unit="volume">318</biblScope>
+                    <biblScope unit="pages">A4</biblScope>
+                    <author>Christopher Burbach</author>
+                    <date when="2022-11-14">Monday, November 14, 2022</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head type="main">Historical marker unveiled at lynching site</head>
+            <lb></lb>
+            <p>OMAHA&#8211;People seeking justice at the Douglas County Courthouse will now walk between a pair of momuments commemorating two of the ugliest, most violent injustices in Omaha history.</p>
+            <p>One historical marker, unveiled in an emotional ceremony last month, tells the story of the lynching of George Smith by a White  mob outside the courthouse in 1891. The marker also relates the context of the killing: From 1865 to 1950, thousands of Black people were victims of racial terror and lynching. The lynchings were "intended to intimidate Black people and enforce racial hierarchy and segregation."</p>
+            <p>The other plaque, unveiled last year, memorizalizes the lynching of Will Brown outside the courthouse in 1919.</p>
+            <p>The metal plaques bracket the sidewalk leading to the courthouse's main entrance at 17th and Farnam Streets.</p>
+            <p>Their prominent placement "speaks to the importance of reconciliation," said Brenda Council, a former Omaha City Council member and Nebraska state senator, after the Smith marker was unveiled last month.</p>
+            <p>"It contains a tragic but real story of the role that racial injustice played in the City of Omaha,"Council said. "It's a new day, and we need to move forward &#8211; not ignore the wounds, but acknowledge them and seek to heal from them."</p>
+            <p>Nearly 100 people attended the ceremony on a crisp fall day. It was led by members of the Omaha Community Council for Racial Justice and Reconciliation, which has worked together with the Alabama-based Equal Justice Initiative on the markers and a series of events.</p>
+            <p>The October ceremony mingled lamentation for past injustices with exhortations to do better in the present and future. It included a moving a cappella rendition by the Rev. Beverly Thompson of "Strange Fruit," the anti-lynching anthem popularized by Billie Holiday.</p>
+            <p>Franklin Thompson, former Omaha City Council member, led a chorus of "Lift Every Voice and Sing," often referred to as the Black national anthem. Central High School student Kaleciana Perry read a powerful poem she wrote about the lynching of Smith. The Rev. T. Michael Williams, president of the Omaha NAACP chapter, and the Rev. Stan Rone offered prayers.</p>
+            <p>Eric Ewing, executive director of the Great Plains Black History Museum, read the marker's account of the murder of Smith. A 20-year-old hotel waiter with a wife and young daughter, Smith was arrested without evidence on suspicion of assaulting a White girl. After incendiary and inaccurate newspaper reports, a mob of thousands or White people descended on the courthouse, broke Smith out of jail, killed him and hanged his lifeless body from a telegraph wire.</p>
+            <p>Professor Cynthia Robinson, chair of the UNO Black Studies Department, read the Smith marker's information about the context of the Omaha lynching.</p>
+            <p>"Many African Americans were lynched following accusations of violating social customs or committing crimes, even when there was no evidence tying the accused to any offense," Robinson read. "Black people faced hostile suspicion, and a presumption of guilt that made them vulnerable to white mob violence, and lynching. White mobs, regularly displayed complete disregard for the legal system."</p>
+            <p>That was, Robinson added, "because sometimes the legal system was part of it."</p>
+            <p>Omaha Mayor Jean Stothert said the murder of Smith broke America's founding commitment to equality and injustice.</p>
+            <p>"As we unveil the marker to bring attention to his story, we acknowledge that racial violence and suffering were part of our country's shameful past,"Stothert said. "We pledge our resolve to reject hate and bias and contribute to a community of acceptance, where we can talk openly about our past, learn from hateful actions, and educate each other and future generations that tolerance, respect and inclusion are hallmarks of civil society."</p>
+            <p>Franklin Thompson said the day was not about guilt and shame.</p>
+            <p>It's all beed about reconciliation," he said. "The Omaha Community Council on Racial Justice and Reconciliation, we want justice, but we also want to reconcile one another and move ahead and reach our potential as human beings."</p>
+            <p>Marisa Hattab was so affected by hearing the account of Smith's murder that she had to remind herself to breathe.</p>
+            <p>"I was not present during this time but the traume, the generational trauma that has been inflicted on the bodies of Black people, I still feel it," said Hattab, Douglas County director of diversity, equity, and inclusion.</p>
+            <p>She said she wrestles with hopelessness when she thinks of Breonna Taylor and George Ffloyd. But she believed in a concept expressed by Bryan Stevenson, founder and executive director of the Equal Justice Initiative: Hopelessness is the enemy of justice.</p>
+            <p>"There truly is a hope," Hattab said. "We're standing, we're sitting, in the hope and the prayers of many of our ancestors that things will change. ...And so I just want to encourage you to be grounded and steadfast and hope. Because if we truly surrender to hopelessness&#8211;and that enemy is real, y'all&#8211;justice will not prevail.</p>
+        </body>
+    </text>
+
+</TEI>     

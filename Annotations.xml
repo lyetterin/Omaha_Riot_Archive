@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">MAYOR, HANGED BY MOB IN SERIOUS CONDITION</title>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="ly_er">Lyette Erin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="br_he">Brooke Herron</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a">U.S. Soldier's Guarding The City</title>
+                    <title level="j">Evening World Herald</title>
+                    <biblScope unit="volume">35</biblScope>
+                    <biblScope unit="issue">29</biblScope>
+                    <biblScope unit="pages">1 and 15</biblScope>
+                    <date when="1919-09-29">September 29, 1919</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+<body>
+    <div>
+        <head>BIOGRAPHICAL ANNOTATIONS</head>
+    </div>
+    <note type="person" xml:id="edsmith"><label>Smith, Edward Parsons. Mayor of Omaha.</label><p>Edward Smith was born in Mount Pleasant, Iowa on September 30, 1830 to Edward Smith and Celia [Schockley] Smith. In 1885 he graduated from University of Iowa College of Law with an LL.B degree was admitted to the bar. Smith ran for Omaha of Mayor, as a democrat, in 1918, and beat incumbent Mayor “Cowboy” Jim Dahlman on a reform ticket. During the riot Smith was strung up and almost hanged by a mob of disgruntledly white men. Though Smith finished the rest of his term as mayor, his passion for politics never quite returned. Smith died in Omaha on May 21, 1930 and was buried in Forest Lawn Memorial Park in Douglas County, Nebraska.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="wibrown"><label>Brown, William. Lynching Victim.</label><p>Will Brown, a negro man, was held on a charge of assault on Agnes Loebeck, a white 19 year old girl. Brown was a 41 years old packinghouse worker. After being seized by the mob, Brown was beaten to the point of unconsciousness, his clothes were torn off, and he was dragged behind a car to the lynching site, a lamp pole on the south side of the courthouse at 18th and Harney. Brown has strung up, hung, and riddled with bullets. Later Brown's body was brought down, tied behind a car, and towed to the intersection of 17th and Dodge. Brown's body was severely burned and dragged through the downstown streets. Pieces of the rope used to lynch Brown were sold for 10 cents each. Brown maintained his innocence until his dying breath. Information about who Brown was prior to being identified by Agnes Loebeck is currently unavailable.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="agloebeck"><label>Loebeck, Agnes. Will Brown's Accuser.</label><p>Agnes Loebeck was born in Douglas County, Nebraska in June 1898 to Joseph and Francis Loebeck. Loebeck, alongside her escort Millard Hoffman, was the victim of the assault that led to the lynching of Will Brown. Loebeck was described as a pretty brown-eyed girl, with sweet, modest manner. At the time of the assault Loebeck worked as a shaker at the Model steam laundry. She was a Catholic and a member of St. Patrick's parish. According to Loebeck, whilst returning home at midnight from a movie on September 25, 1919, she and Hoffman were robbed, dragged down the hill, and assaulted by a Black gunman. Loebeck identified Brown by his clothing, shoes, and voice. Loeback later married Millard Hoffman and died in her home in Douglas County, Nebraska on May 01, 1966. Loeback maintained that is was Will Brown who assaulted her and Hoffman.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="edhenry"><label>Henry, Edwin Clyde. Physician.</label><p>Edwin Henry was born in Adams County, Illinois on March 13, 1870 to Samuel Henry and Harriet [Kay] Henry. In 1896, Henry moved to Omaha, Nebraska where he and his brother, Dr Walter O. Henry, were prominent physicians. Henry was Mayor Smith’s primary physician during the treatment of the injuries he received during the riot. Henry later moved to Los Angeles, California where he died on July 26, 1943. Henry was buried in Forest Lawn Memorial Park in Douglas County, Nebraska.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="oleson"><label>Ole Olson. Private Secretary of Mayor Smith.</label><p>Ole Olson was the private secretary of Mayor Smith and wasn’t allowed to see Smith whilst he was hospitalized due to the injuries he received during the riot. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="frhowell"><label>Howell, Francis “Frank” Singleton. Best Friend of Mayor Smith.</label><p>Francis “Frank” Howell was born in Hall County, Georgia on July 17, 1863 to Singleton Gideon Howell and Agnes [Owsley] Howell. In 1910, Howell moved to Omaha, Nebraska with his wife Clara Julia [Jones] Howell and their two children Frances Louise Howell and Guy Robert Howell. Howell was denied to visit his best friend, Mayor Smith, whilst he recovered from the injuries he received during the riot. Howell died in Omaha on June 28, 1937 and was buried in Forest Lawn Memorial Park in Douglas County, Nebraska.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="cczim"><label>City Commissioner Zimman.</label><p>Zimman witnessed the mayor’s arrival at the courthouse. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="djringer"><label>Ringer, Dean J. Police Commissioner.</label><p>Dean J Ringer was born in Douglas County, Nebraska in 1878. Ringer, alongside Eberstein attempted to keep the mayor safe in the courthouse. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="maeberstein"><label>Eberstein, Marshall. Chief of Police.</label><p>Marshall Eberstein was born in Kalamazoo, Michigan on January 6, 1859 to George Eberstein and Nancy [Robinson] Eberstein. After the death of his son, Clyde Eberstein, in 1918, Eberstein and his family moved to Douglas County, Nebraska. Eberstein, alongside Ringer attempted to keep the mayor safe in the courthouse. Eberstein died in Kalamazoo, Michigan on January 14, 1946 and was buried in Climax, Michigan.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="miclark"><label>Clark, Michael. Sheriff.</label><p>Michael Clark was born in New York in about 1870. During the riot, Clark and his deputies guarded the prisoners in the jailhouse until Clark was able to find a route of escape for Mayor Sheriff and Commissioner Ringer. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="chdusen"><label>Dusen van, Charles “Charley”. Detective.</label><p>Van Dusen, alongside Andersen, Danbaum, and Toland drove into the intersection to save the mayor from hanging and take him to the hospital. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="acandersen"><label>Andersen, A.C. Detective.</label><p>Andersen, alongside Danbaum, van Dusen, Toland drove into the intersection to save the mayor from hanging and take him to the hospital. Andersen cut the rope and pulled the mayor into the vehicle. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="lltoland"><label>Toland, Lloyd Outhwaite. Detective.</label><p>Lloyd Toland was born in Douglas County, Nebraska on August 13, 1983, in Douglas County, Nebraska to Israel Toland and Edith [Outhwaite] Toland. Toland, alongside van Andersen, Dusen, and Danbaum drove into the intersection to save the mayor from hanging and take him to the hospital. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="bedanbaum"><label>Danbaum, Benjamin “Benny”. State Agent.</label><p>Danbaum, alongside van Andersen, Dusen, and Toland drove into the intersection to save the mayor from hanging and take him to the hospital. No further information is available currently.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="hifranklin"><label>Stryker, Hird Franklin Sr. Eyewitness.</label><p>Hird Franklin Stryker Sr. was born in Douglas County, Nebraska on April 5, 1892, to Arthur Stryker and Barbara [Hird] Stryker. In 1916, Stryker was admitted to the Nebraska bar after obtaining a law degree from University of Chicago two years prior. Stryker married Ruth Baume on January 20, 1918, in Galena, Illinois. During the riot Stryker witnessed a mob of thirty to forty people seized and battered the mayor. Stryker attempted to help the mayor by pleading with the crowd to unhand the mayor and begged other bystanders to intervene as well, however, his pleas went unheard. Stryker died on October 9, 1944, in Lincoln, Nebraska. Stryker was buried in Forest Lawn Memorial Park in Douglas County, Nebraska.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="jemorris"><label>Morris, John E. Police Sergeant.</label><p>John E. Morris was born in Douglas County, Nebraska on October 27, 1898, to Louis Morris and Roulier [Smith] Morris. Morris, alongside an unidentified woman attempted to lift the mayor into an emergency police vehicle, however, the mob overturned and burned the vehicle. Morris died in Deer Lodge, Montana on July 28, 1969.</p></note>
+        <lb></lb>
+    <note type="person" xml:id="runorgard"><label>Norgard, Russell. Savior of the Mayor.</label><p>Russell Norgard was born in Douglas County, Nebraska in April 1895, to Andrew Norgard and Caroline [Johnsen] Norgard. Norgard is credited as being the savior of the mayor as three times he slipped the noose from the mayor’s neck and refused to let go of the noose which prevented the mob from tightening the rope. No further information is available currently.</p></note>
+        <lb></lb>
+</body>
+</text>
+</TEI>

@@ -33,15 +33,15 @@
   </teiHeader>
 	<facsimile>
       <surface>
-         <graphic url="EWH_9.29.19_Page_1"/>
+         <graphic url="EWH_9.29.19_Page_1.jpg"/>
       </surface>
       <surface>
-         <graphic url="EWH_9.29.19_Page_2"/>
+         <graphic url="EWH_9.29.19_Page_2.jpg"/>
       </surface>
    </facsimile>
   <text>
       <body>
-	  <pb facs="EWH_9.29.19_Page_1"/>    
+	  <pb facs="EWH_9.29.19_Page_1.jpg"/>    
          <head type="main">MAYOR, HANGED BY MOB IN SERIOUS CONDITION</head>
             <byline>Fought to the Last to Protect Life of <ref target="n16">Will Brown</ref>&#8212;Citizen Three Times Took Mob Noose From Mayor's Neck&#8212;Cut Down From Light Pole</byline>
             <head type="sub">REGAINS CONSCIOUSNESS EARLY TODAY&#8212;NO VISITORS PERMITTED</head>
@@ -88,7 +88,7 @@
          <p>Mayor Smith apparently had continued on down when Ringer turned back to look for the chief and unaccompanied fell into the hands of the mob.</p>
         <p>The mob by this time had reached that state where it exhibited no regard for consequences and the mayor was seized by a band of thirty or forty persons, according to <ref target= "n08">Hird Stryker</ref>, 1317 Park avenue, who was an eye-witness. The mayor was seized on Harney street in front of the Keeline building, according to Stryker.</p>
 	     <lb></lb>
-	     <pb facs="EWH_9.29.19_Page_2"/>
+	     <pb facs="EWH_9.29.19_Page_2.jpg"/>
 	     <note type="continuation">Continued on Page 15, Column 7.</note>
 	     <lb></lb>
          <p>After threatening him and then beating him, members of the mob screamed demands for the release of the prisoner, according to Stryker. The mayor, however, refused and insisted that the mob permit law, order and justice to pursue its course.</p>

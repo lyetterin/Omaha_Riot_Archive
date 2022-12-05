@@ -1,0 +1,81 @@
+p {
+text-align: left;
+font-family: garamond;
+font-size: 10px;
+color: black;
+text-indent: 50px; 
+
+}
+
+
+h1 {
+font-family: garamond;
+font-weight: bold;
+    
+}
+
+
+p.note /* Digital Archives and Editions 478 */ {
+color: #4d6b53;  
+line-height: 1.5;
+}
+
+p.introduction {
+  text-indent:0rem;
+  text-align:center;
+  font-family: garamond;
+  font-size: 1rem;
+  color: black;
+}
+
+p.home {
+  text-indent:0rem;
+  text-align:center;
+  font-family: garamond;
+  font-size: 1rem;
+  color: black;
+  text-align: justify;
+  text-justify: inter-word;
+}
+p {
+text-align: left;
+font-family: effra;
+font-size: 1rem;
+color: black;
+margin-right: 10.625rem;
+margin-left: 10.625rem;
+text-indent: 2.188rem;
+}
+
+div.notes /* Digital Archives and Editions 478 */ {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;   
+}
+
+span.label{
+text-align: left;
+font-family: garamond;
+font-weight: bold;
+color: black;
+
+}
+
+div.image {
+text-align: left;
+margin-right: 10.625rem;
+margin-left: 10.625rem;
+  
+}
+
+div.img {
+  margin-right:150px;
+margin-left:150px;
+text-indent:31.25rem;
+}
+
+body /* if you want the background for the whole page, you should use the "body" selector */ {
+background-color: #fafafa;
+    
+}

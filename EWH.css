@@ -11,7 +11,7 @@ text-indent: 50px;
 h1 {
 font-family: garamond;
 font-weight: bold;
-font-size: 15px;
+font-size: 20px;
 color: #4d6b53;
     
 }
@@ -60,12 +60,14 @@ span.label{
 text-align: left;
 font-family: garamond;
 font-weight: bold;
-color: black;
+color: #172119;
 
 }
 
 div.image {
-text-align: left;
+text-align: center;
+margin-top: 10.625rem;
+margin-bottom: 10.625rem;
 margin-right: 10.625rem;
 margin-left: 10.625rem;
   
@@ -78,6 +80,6 @@ text-indent:31.25rem;
 }
 
 body /* if you want the background for the whole page, you should use the "body" selector */ {
-background-color: #fafafa;
+background-color: #e0cda7;
     
 }

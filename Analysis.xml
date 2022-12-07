@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">MAYOR, HANGED BY MOB IN SERIOUS CONDITION</title>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="ly_er">Lyette Erin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="br_he">Brooke Herron</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Source is an analysis of the articles in the Evening World Herald and The Monitor about the lynching of Will Brown.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>The Monitor serves to inform the public of all the incriminating details of the riot and lynching, including specific details such as who was involved, who had been criminally charged, and also who had been injured. Instead of telling their viewers what to think about the riot, instead they present all the proper evidence intended so that their audience could form their own conclusions on what had happened. The majority of the article contains lists of assaulters, times and locations of events, eye-witness accounts, and even statements from official authorities to add credibility to the story. What is important to note here is that any source that The Monitor decided to include that was not a piece of factual information or evidence from the event was supporting the narrative that yellow journalism was to blame for the uprising. It is evident that the quotations provided by the ministers in Omaha were emphasizing the fact that the misinformation that was being spread by the mainstream media at the time was the true culprit of violence. County Attorney Shotwell attested to this idea as well, providing a specific example of one of the many wrongful assumptions that were made by journalists that added more fuel to the fire.</p>
+            <p>On the contrary, The Omaha World Herald focused its attention mainly on the Mayor's whereabouts and where the officers were stationed in the courthouse when the rioters set the courthouse on fire. They do not provide details on the disturbing acts of the rioters, nor do they provide information on who was involved. Instead, they focus mainly on how Mayor Smith was taken by the mob and hanged multiple times, as a result of him trying to protect the black prisoner, Will Brown, from being injured. They also include details of the Mayor's current state of health while inside the hospital, and include how he is still receiving death threats because the public believes that he is wrong for protecting black people in court.</p>
+            <p>When further analyzing these two very different publications, there are a few major takeaways. The first one being that The Monitor published its first article about the event on October 9th, almost ten days after the incident, whereas the Evening World Herald published its first article on September 29th. Secondly, The Monitor had four pages of descriptive information regarding the traumatic events that happened on September 28th and 29th, whereas The Omaha World Herald only published two pages which lacked sufficient descriptions and data points. Not only this, but The Monitor had an entire different definition of the event, stating that the race riot should not be labeled as that, and instead be known solely as a lynching. Their reasoning for this was that a race riot would have resulted in much more severe outcomes, such as invading the communities of property-owning black people and carrying out threats away from the courthouse. Regardless of the two contrasting stories, the purpose of this analysis is to understand how deceptive the media has been in the past and where it can lead to. It makes us question if targeted ethnic marketing or advertising should be considered ethical, or if the current state of our media today should be to blame for the division and racism that is embedded into our political systems and daily lives. </p>
+        </body>
+    </text>
+</TEI>

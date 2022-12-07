@@ -31,6 +31,12 @@
         <br/>
     </xsl:template>
     
+    <xsl:template match="tei:subhead">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
+        <br/>
+    </xsl:template>
     
     <xsl:template match="tei:lg">
         <div>

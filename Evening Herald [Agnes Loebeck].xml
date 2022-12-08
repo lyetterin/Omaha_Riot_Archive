@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Agnes Loebeck's Mother Glad Negro is Lynched</title>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="ly_er">Lyette Erin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="br_he">Brooke Herron</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Agnes Loebeck's Mother Glad Negro is Lynched</title>
+                    <title level="j">Evening World Herald</title>
+                    <biblScope unit="volume">35</biblScope>
+                    <biblScope unit="issue">29</biblScope>
+                    <biblScope unit="pages">15</biblScope>
+                    <date when="1919-09-29">September 29, 1919</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head type="main">Agnes Loebeck's Mother Glad Negro is Lynched</head>
+            <p><persName><ref target= "#agloebeck">Agnes Loebeck</ref></persName>, the 20-year-old victim of the assault which led to last night's lynching, this morning declared that she was absolutely convinced as to Brown's identity and that he was the man who attacked her that night. The girl's mother said she was glad the negro was lynched.</p>
+            <p>"I said he was not a very tall man, and the minute the police brought him here I recognized him," said Agnes today at her home, 3228 South Second street.</p>
+            <p>"I knew him from his hat and his clothes and his shoes and from his face and his size. As soon as he spoke I recognized his voice. When the police brought him here he said 'Let me have a fair trial,' and I recognized his voice instantly. As he pushed us ahead of him down the hill that night he kept saying 'shut up' all the time and I remembered his voice distinctly."</p>
+            <p>The point where the negro first came upon Agnes Loebeck and <persName><ref target= "#mihoffman">Millard Hoffman</ref></persName>, her crippled escort, who was held at bay by a gun, is only a short distance from a bright arc light.</p>
+            <p>Everything is strangely quiet today about the little home occupied by the Loebecks. Agnes, who was in a state of hysteria Sunday afternoon and evening as reports of the rioting reached her, is somewhat calmer today. She lies or sits on a couch in the modest parlor, her small sister always close beside her. Her head, which aches almost continuously, is bound with a handkerchief and she plucks at the shawl about her shoulders with sort of a nervous terror.</p>
+            <p>She is a pretty brown-eyed girl, with sweet, modest manner. She is employed at the Model steam laundry, where she is a shaker. She is a Catholic and a member of St. Patrick's parish, where she goes to mass each Sunday at 9 o'clock.</p>
+            <p><persName><ref target= "#joloebeck">Mrs.Joseph Loeback</ref></persName>, a hard working brown-eyes little woman, came from the wash tub this morning to talk to her daughter and give her a word of comfort occasionally.</p>
+            <p>"I'm glad they killed the negro,"said the little mother. "I raised thirteen children, nine of them still living, and to think that this terrible thing should have happened to one of my daughters."</p>
+            <p>Here the woman's voice broke. "No one will ever known how I felt that night when they brought Agnes home,"she added. "We've lived right here in this house for twenty-seven years. We have never wronged any one. We once had negro neighbors and I always taught my children to treat them kindly. I told them negroes could not help it because they were black and now to think this should have happened to our family."</p>
+            <p>"My daughter will never be the same again." the mother sobbed. "You should have seen her a few days ago. She was gay and happy and had rosy cheeks. Now she won't eat and she is getting thin and is nervous and can't sleep."</p>
+        </body>
+    </text>
+</TEI>

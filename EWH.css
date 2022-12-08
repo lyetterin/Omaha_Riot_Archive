@@ -12,13 +12,13 @@ h1 {
 font-family: garamond;
 font-weight: bold;
 font-size: 20px;
-color: #4d6b53;
+color: #3A5311;
     
 }
 
 
 p.note /* Digital Archives and Editions 478 */ {
-color: #4d6b53;  
+color: #3A5311;  
 line-height: 1.5;
 }
 
@@ -60,7 +60,7 @@ span.label{
 text-align: left;
 font-family: garamond;
 font-weight: bold;
-color: #172119;
+color: #1354A21;
 
 }
 
@@ -74,12 +74,12 @@ margin-left: 10.625rem;
 }
 
 div.img {
-  margin-right:150px;
+margin-right:150px;
 margin-left:150px;
 text-indent:31.25rem;
 }
 
 body /* if you want the background for the whole page, you should use the "body" selector */ {
-background-color: #e0cda7;
+background-color: #EBECF0;
     
 }

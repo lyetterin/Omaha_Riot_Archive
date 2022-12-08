@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Lynching Near Same Place 25 Years Ago</title>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="ly_er">Lyette Erin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Assistant</resp>
+                    <name xml:id="br_he">Brooke Herron</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Lynching Near Same Place 25 Years Ago</title>
+                    <title level="j">Evening World Herald</title>
+                    <biblScope unit="volume">35</biblScope>
+                    <biblScope unit="issue">29</biblScope>
+                    <biblScope unit="pages">3</biblScope>
+                    <date when="1919-09-29">September 29, 1919</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head type="main">Lynching Near Same Place 25 Years Ago</head>
+            <p>With the lynching of <persName><ref target= "#gesmith">George Smith</ref></persName> in mind, the new court house had, like some others of recent type, bee<supplied reason="page torn" resp="#ly_er">n</supplied> built supposedly "mob proof"</p>
+            <p>Smith, a negro, was lynched abou<supplied reason="page torn" resp="#ly_er">t</supplied> a quarter-century ago from the ol<supplied reason="page torn" resp="#ly_er">d</supplied> county jail on the same site and swung from a trolley pole at Seventeeth and Harney. He had outrages <persName><ref target= "#edsmith">a white girl</ref></persName>, daughter of a Union Pacific shop man, and she was believed his fifth victim.</p>
+            <p>A mob with sledge hammers and cold chisels and railway rails stormed the old jail and after several hours got their victim. He was so badly scared that he was more dead than alive when strung up. <persName><ref target= "#maboyd">Mayor Boyd</ref></persName> ordered the crowd to disperse but it paid no attention. The he called out the firemen to play streams on the crowd and disperse it, but the mob cut the hose.</p>
+        </body>
+    </text>
+</TEI>
